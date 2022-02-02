@@ -5,5 +5,5 @@
 - Looking to collaborate on open source VR projects.
 - 📫 How to reach me: email in my profile
 - 💖 My favorite tools:
-   - FE: VueJs
+   - FE: VueJs (w/typescript)
    - BE: Symfony, Spring Boot (w/kotlin)
