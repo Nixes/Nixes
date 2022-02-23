@@ -4,6 +4,6 @@
 - 💬 Ask me about architecture, datastructures, AWS infrustructure, devops.
 - Looking to collaborate on open source VR projects.
 - 📫 How to reach me: email in my profile
-- 💖 My favorite tools:
+- 💖 My favorite tools/frameworks:
    - FE: VueJs (w/typescript)
    - BE: Symfony, Spring Boot (w/kotlin)
