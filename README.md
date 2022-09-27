@@ -7,3 +7,4 @@
 - 💖 My favorite tools/frameworks:
    - FE: VueJs (w/typescript)
    - BE: Symfony, Spring Boot (w/kotlin)
+   - DevOps: Terraform, CircleCI
