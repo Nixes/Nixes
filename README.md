@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a news reliability analysis service
-- 🌱 I’m currently learning Dart + Flutter, Spring, Nest, Unity 3D
+- 🌱 I’m currently learning Micronaut, Nest, Unity 3D
 - 💬 Ask me about architecture, datastructures, AWS infrustructure, devops.
 - Looking to collaborate on open source VR projects.
 - 📫 How to reach me: email in my profile
