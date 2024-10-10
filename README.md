@@ -2,7 +2,11 @@
 - 🔭 I’m currently working on a news reliability analysis service
 - 🌱 I’m currently learning Micronaut, Nest, Unity 3D
 - 💬 Ask me about architecture, datastructures, AWS infrustructure, devops.
-- Looking to collaborate on open source VR projects.
+- Things I'd like to work on:
+   - Automated news analysis
+   - News distribution platforms
+   - Misinformation detection and tracking
+   - Fact checking services
 - 📫 How to reach me: email in my profile
 - 💖 My favorite tools/frameworks:
    - FE: VueJs (w/typescript)
