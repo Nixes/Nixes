@@ -10,5 +10,5 @@
 - 📫 How to reach me: email in my profile
 - 💖 My favorite tools/frameworks:
    - FE: VueJs (w/typescript)
-   - BE: Spring Boot (w/kotlin), Symfony, NestJS
+   - BE: Micronaut, Symfony, NestJS
    - DevOps: Terraform, CircleCI
