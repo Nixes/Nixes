@@ -7,6 +7,7 @@
    - News distribution platforms
    - Misinformation detection and tracking
    - Fact checking services
+   - Reputation tracking
 - 📫 How to reach me: email in my profile
 - 💖 My favorite tools/frameworks:
    - FE: VueJs (w/typescript)
