@@ -8,6 +8,7 @@
    - Misinformation detection and tracking
    - Fact checking services
    - Reputation tracking
+   - Moderation systems
 - 📫 How to reach me: email in my profile
 - 💖 My favorite tools/frameworks:
    - FE: VueJs (w/typescript)
