@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a news reliability analysis service
-- 🌱 I’m currently learning Micronaut, Unity 3D, Current NLP best practices
+- 🌱 I’m currently learning Unity 3D, Current NLP / ML best practices
 - 🦾 Would like to learn .Net Core
 - 💬 Ask me about architecture, datastructures, AWS infrustructure, devops.
 - Things I'd like to work on:
