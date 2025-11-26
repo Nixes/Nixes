@@ -5,8 +5,7 @@
 - Things I'd like to work on:
    - Automated news analysis
    - News distribution platforms
-   - Misinformation detection and tracking
-   - Fact checking services
+   - Misinformation/Fact detection and tracking
    - Reputation tracking
    - Moderation systems
 - 📫 How to reach me: email in my profile
