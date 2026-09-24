@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Unity 3D, Current NLP / ML best practices
 - 🦾 Would like to learn .Net Core
 - Things I'd like to work on:
+   - Applications of LLMs and Agents to Biological problems 
    - Automated news analysis
    - News distribution platforms
    - Misinformation/Fact detection and tracking
